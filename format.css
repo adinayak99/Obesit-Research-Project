@@ -239,7 +239,7 @@ html, body {
   }
   
   .header_section h1 {
-    font-size: 24px; /* Even smaller on phones */
+    font-size: 30px; /* Even smaller on phones */
   }
   .text_section h1 {
     font-size: 28px; /* Smaller for phones */
