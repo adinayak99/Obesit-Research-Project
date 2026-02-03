@@ -210,7 +210,7 @@ html, body {
     font-size: 24px; /* Reduce h3 size */
   }
   .text_section p {
-    font-size: 16px;
+    font-size: 24px;
     margin-left: 0px;
     margin-right: 24px;
   }
@@ -247,7 +247,7 @@ html, body {
     font-size: 16px; /* Further reduce h3 */
   }
   .text_section p {
-    font-size: 16px; /* Further reduce p */
+    font-size: 24px; /* Further reduce p */
     margin-left: 100px;
     margin-right: 12px;
   }
