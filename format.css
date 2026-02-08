@@ -201,6 +201,24 @@ html, body {
   margin: 0;
 }
 
+/*Button display*/
+.outline-disabled {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: transparent;
+  color: #6d1111;
+  border: 3px solid #9f1212;
+  padding: 8px 14px;
+  border-radius: 24px;
+  font-size: 16px;
+  opacity: 1; /* Ensure full opacity */
+}
+
+.outline-disabled:disabled {
+  background-color: transparent;
+  color: #751414;
+  border-color: #751414;
+}
+
   @media (max-width: 768px) {
   .header_section h1 {
     font-size: 30px; /* Smaller on tablets/mobile */
